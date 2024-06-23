@@ -18,6 +18,7 @@ type PullRequestAndTotalCount struct {
 
 type PullRequest struct {
 	ID                  string
+	FullDatabaseID      string
 	Number              int
 	Title               string
 	State               string

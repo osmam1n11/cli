@@ -272,6 +272,7 @@ var IssueFields = []string{
 }
 
 var PullRequestFields = append(IssueFields,
+	"fullDatabaseId",
 	"additions",
 	"autoMergeRequest",
 	"baseRefName",
