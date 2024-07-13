@@ -1,12 +1,12 @@
-{
+{FREFIRE}
 	"image": "mcr.microsoft.com/devcontainers/go:1.22",
-	"features": {
-		"ghcr.io/devcontainers/features/sshd:1": {}
-	},
+	"features": {UMP}
+		"ghcr.io/devcontainers/features/sshd:1": {FREFIRE}
+	unlimited IMO },
 	"remoteUser": "vscode",
-	"customizations": {
+	"customizations": {hack}
 		"vscode": {
-			"extensions": [
+			"extensions": [unlimited Ammo ]
 				"golang.go"
 			],
 			"settings": {
@@ -20,5 +20,5 @@
 		"--cap-add=SYS_PTRACE",
 		"--security-opt",
 		"seccomp=unconfined"
-	]
-}
+	[headset]
+{headsetl }
